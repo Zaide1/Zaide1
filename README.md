@@ -8,11 +8,11 @@ Most of my best work is in private repos, but happy to walk through it in an int
 
 ## 🛠 Tech Stack
 
-**AI / ML** — LLMs · Gemini · DeepSeek · OpenRouter · Voyage AI · Zep · fal.ai · DeerFlow  
-**Backend** — Python · FastAPI · Django · PostgreSQL · SQLAlchemy · REST APIs  
-**Frontend** — JavaScript · TypeScript · React · Next.js · HTML/CSS  
-**Mobile** — Flutter · Dart · Riverpod · Rive · RevenueCat  
-**Tools** — Git · Docker · Supabase · Firebase · Railway · Stripe · AWS · Sentry · PostHog · Linux  
+**AI / ML** — LLMs · Gemini · Vertex AI · DeepSeek · OpenRouter · Voyage AI · Zep · fal.ai · DeerFlow  
+**Backend** — Python · FastAPI · Django · Laravel · PHP · PostgreSQL · SQLAlchemy · REST APIs  
+**Frontend** — JavaScript · TypeScript · React · Next.js · Tailwind CSS · HTML/CSS  
+**Mobile** — Flutter · Dart · Riverpod · Rive · Lottie · RevenueCat  
+**Tools** — Git · Docker · Supabase · Firebase · OneSignal · Railway · Stripe · AWS · Sentry · PostHog · Linux  
 
 ---
 
