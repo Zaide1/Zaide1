@@ -21,7 +21,7 @@ Most of my best work is in private repos, but happy to walk through it in an int
 | Project | Description |
 |---|---|
 | [Dally](https://github.com/Zaide1/DallyAI) | AI social app — chat with AI personas, explore & create · Flutter + Supabase |
-| [ChompMate (legacy)](https://github.com/Zaide1/nutrify) | A legacy version of ChompMate — a calorie and nutrition tracking app that lets users scan barcodes to log meals, track daily macros, and receive weekly AI-generated nutrition reviews. Built with Flutter and Gemini, with Rive animations throughout. A live version is actively in development. |
+| [ChompMate (legacy)](https://github.com/Zaide1/nutrify) | A legacy version of ChompMate — a calorie and nutrition tracking app that lets users scan barcodes to log meals, track daily macros, and receive weekly AI-generated nutrition reviews. Built with Flutter and Gemini, with Rive animations throughout. The live version has generated 900k+ views across social media. |
 | [ChompMate Backend](https://github.com/Zaide1/nutrify-backend) | The FastAPI backend powering ChompMate, handling barcode food scanning, macro tracking, and AI-generated weekly nutrition reports. Built with Python, PostgreSQL, and Docker. |
 | [AudienceIQ](https://github.com/Zaide1/AudienceIQ-Landing-Page) | An AI-powered market research tool that maps target audiences, analyses competitors, and generates content strategy. Built with React using DeerFlow orchestration and DeepSeek. |
 | [RJ Music](https://github.com/Zaide1/RJMusic) | A paid client website built for musician Roy Jevons, covering lesson offerings, booking, and brand partnerships. Built with Next.js. |
