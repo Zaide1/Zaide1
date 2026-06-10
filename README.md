@@ -8,12 +8,11 @@ Most of my best work is in private repos, but happy to walk through it in an int
 
 ## 🛠 Tech Stack
 
-**AI / ML** — LLMs · RAG · LangChain · OpenAI · Gemini · Fine-tuning  
-**Backend** — Python · FastAPI · Django · PHP · REST APIs · SQL  
+**AI / ML** — LLMs · Gemini · DeepSeek · DeerFlow  
+**Backend** — Python · FastAPI · Django · PostgreSQL · SQLAlchemy · REST APIs  
 **Frontend** — JavaScript · TypeScript · React · Next.js · HTML/CSS  
-**Mobile** — Flutter · Android · Java  
-**Data** — ETL Pipelines · Data Engineering · Analytics  
-**Tools** — Git · Linux · Docker · Supabase · Firebase  
+**Mobile** — Flutter · Dart · Riverpod · Rive  
+**Tools** — Git · Docker · Supabase · Firebase · Linux  
 
 ---
 
