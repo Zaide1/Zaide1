@@ -8,12 +8,11 @@ Most of my best work is in private repos, but happy to walk through it in an int
 
 ## 🛠 Tech Stack
 
-**AI / ML** — LLMs · RAG · LangChain · OpenAI · Gemini · Fine-tuning  
-**Backend** — Python · FastAPI · Django · PHP · REST APIs · SQL  
-**Frontend** — JavaScript · TypeScript · React · Next.js · HTML/CSS  
-**Mobile** — Flutter · Android · Java  
-**Data** — ETL Pipelines · Data Engineering · Analytics  
-**Tools** — Git · Linux · Docker · Supabase · Firebase  
+**AI / ML** — LLMs · Gemini · Vertex AI · DeepSeek · OpenRouter · Voyage AI · Zep · fal.ai · DeerFlow  
+**Backend** — Python · FastAPI · Django · Laravel · PHP · PostgreSQL · SQLAlchemy · REST APIs  
+**Frontend** — JavaScript · TypeScript · React · Next.js · Tailwind CSS · HTML/CSS  
+**Mobile** — Flutter · Dart · Riverpod · Rive · Lottie · RevenueCat  
+**Tools** — Git · Docker · Supabase · Firebase · OneSignal · Railway · Stripe · AWS · Sentry · PostHog · Linux  
 
 ---
 
@@ -33,7 +32,10 @@ Most of my best work is in private repos, but happy to walk through it in an int
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/GitHub%20Contributions-1%2C000%2B-3fb950?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Zaide1&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaide1&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=Zaide1&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 
 <img src="https://ghchart.rshah.org/3fb950/Zaide1" width="100%" alt="Zaide's GitHub Contribution Graph" />
 
