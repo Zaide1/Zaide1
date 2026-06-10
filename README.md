@@ -32,8 +32,7 @@ Most of my best work is in private repos, but happy to walk through it in an int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zaide1&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaide1&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zaide1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" />
 
 <img src="https://streak-stats.demolab.com?user=Zaide1&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 
