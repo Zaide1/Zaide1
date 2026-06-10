@@ -22,9 +22,9 @@ Most of my best work is in private repos, but happy to walk through it in an int
 | Project | Description |
 |---|---|
 | [Dally](https://github.com/Zaide1/DallyAI) | AI social app — chat with AI personas, explore & create · Flutter + Supabase |
-| [ChompMate](https://github.com/Zaide1/nutrify) | AI nutrition tracker — barcode scanner, meal logging, weekly AI reviews · Flutter |
-| [ChompMate Backend](https://github.com/Zaide1/nutrify-backend) | FastAPI backend powering ChompMate — food scan, macros, Gemini AI · Python |
-| [AudienceIQ](https://github.com/Zaide1/AudienceIQ-Landing-Page) | AI market research tool — audience mapping, competitor analysis, content strategy · React + OpenAI |
+| [ChompMate (legacy)](https://github.com/Zaide1/nutrify) | Calorie & nutrition tracker (decommissioned) — barcode scanner, Rive animations, meal logging, weekly AI reviews · Flutter + Gemini |
+| [ChompMate Backend](https://github.com/Zaide1/nutrify-backend) | FastAPI backend powering ChompMate — barcode food scan, macro tracking, AI nutrition reports · Python + PostgreSQL + Docker |
+| [AudienceIQ](https://github.com/Zaide1/AudienceIQ-Landing-Page) | AI market research tool — audience mapping, competitor analysis, content strategy · React + DeerFlow + DeepSeek |
 | [RJ Music](https://github.com/Zaide1/RJMusic) | Paid client website for musician Roy Jevons — lessons, booking, brand partnerships · Next.js |
 
 ---
