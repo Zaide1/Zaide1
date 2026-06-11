@@ -1,8 +1,6 @@
 # Hey, I'm Zaide 👋
 
-AI Engineer with real experience across full-stack, mobile, and data engineering. I build things end to end — from the model to the UI.
-
-Most of my best work is in private repos, but happy to walk through it in an interview.
+Full-stack developer working across web, mobile, and AI.
 
 ---
 
