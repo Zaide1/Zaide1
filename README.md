@@ -1,6 +1,6 @@
 # Hey, I'm Zaide 👋
 
-Full-stack developer working across web, mobile, and AI.
+Full-stack developer working across web, mobile, and AI. I build and ship end to end: Flutter mobile apps, Python backends, Next.js frontends, and production LLM integrations. I'm comfortable across the whole lifecycle, from architecting data models and REST APIs to wiring up AI memory systems, building smooth mobile UIs, and getting things in front of users.
 
 ---
 
