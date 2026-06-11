@@ -1,6 +1,6 @@
 # Hey, I'm Zaide 👋
 
-Full-stack developer who builds heavily with AI. I work across the whole stack — from LLMs and backend APIs to mobile apps and production UIs.
+Full-stack developer working across web, mobile, and AI.
 
 ---
 
